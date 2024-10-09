@@ -1,8 +1,4 @@
 
-git clone https://github.com/JavaScript-Mastery-Pro/uber.git
-cd uber
-```
-
 **Installation**
 
 Install the project dependencies using npm:
